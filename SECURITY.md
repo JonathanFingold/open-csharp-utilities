@@ -14,5 +14,5 @@ currently being supported with security updates.
 ## Reporting a Vulnerability
 
 For now, this is a recreational repo.
-I will attempt to address vlnerabilities, as they are identified, but can make no guaruntees as to timeliness.
+I will attempt to address vulnerabilities, as they are identified, but can make no guaruntees as to timeliness.
 Please file an issue if you find a vulnerability.
